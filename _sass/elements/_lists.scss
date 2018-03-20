@@ -125,3 +125,25 @@ ul {
     padding-bottom: $base-padding;
   }
 }
+
+.eiti-archive {
+    display: inline-block;
+    list-style: none;
+    border-color: $blue;
+    margin-bottom: 1em;
+    padding: 1.25em 0.8em;
+    border-radius: 0.4em;
+    border-width: 1px;
+    border-style: dashed;
+    width: 100%;
+}
+
+.eiti-archive h3:before {
+    content: "USEITI archive";
+    display: block;
+    margin-top: -1.2em;
+    color: $blue;
+    font-size: 0.7em;
+    font-weight: 300;
+    float: right;
+  }

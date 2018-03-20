@@ -70,7 +70,7 @@ tag:
     </a>
   </li>
 
-  <li class="downloads-download_links">
+  <li class="downloads-download_links eiti-archive">
     <a href="{{site.baseurl}}/downloads/reconciliation/" id="reconciliation" class="link-no_under"><h3>Reconciliation</h3></a>
     <p>In the reconciliation process, companies report payments to the government (e.g., rents, taxes, royalties) and the government reports what it received. These figures are compiled and reconciled. The 2015 reconciliation data is at the link below.</p>
     <a href="{{site.baseurl}}/downloads/reconciliation/">
